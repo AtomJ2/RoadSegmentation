@@ -29,5 +29,6 @@ The performance of the road segmentation model is evaluated using the following 
 ## Results
 After training on test data, I got the following results:
 Precision ~ 87.4%
+
 Recall ~ 63.6%
 IoU ~ 58.4%
