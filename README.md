@@ -1,4 +1,6 @@
 # Road Segmentation Project
+![dataset-cover](https://github.com/AtomJ2/RoadSegmentation/assets/42699170/c9c60467-997c-4c8a-8ab3-b35ac9b9ed33)
+
 
 This project aims to perform road segmentation on Massachusetts roads using the dataset.
 
