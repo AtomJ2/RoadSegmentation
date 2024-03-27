@@ -27,6 +27,7 @@ The performance of the road segmentation model is evaluated using the following 
 - Intersection over Union (IoU)
 
 ## Results
-After training and evaluating the model, the results will be presented in the notebook along with insights and analysis of the road segmentation task.
-
-Feel free to explore the code and experiment with the dataset to improve the road segmentation accuracy. Let's enhance the mapping of Massachusetts roads together!
+After training on test data, I got the following results:
+Precision ~ 87.4%
+Recall ~ 63.6%
+IoU ~ 58.4%
