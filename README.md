@@ -31,4 +31,5 @@ After training on test data, I got the following results:
 Precision ~ 87.4%
 
 Recall ~ 63.6%
+
 IoU ~ 58.4%
