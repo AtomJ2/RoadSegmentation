@@ -1,6 +1,6 @@
 # Road Segmentation Project
 
-This project aims to perform road segmentation on Massachusetts roads using the dataset available at [Massachusetts Roads Dataset](https://www.kaggle.com/datasets/balraj98/massachusetts-roads-dataset/code).
+This project aims to perform road segmentation on Massachusetts roads using the dataset.
 
 ## Contents
 1. Description
